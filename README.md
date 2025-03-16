@@ -5,10 +5,15 @@
 🔍 What's Inside the Dashboard?
 
 ✅ Count of Restaurants offering dining bookings & online delivery
+
 ✅ Top 5 Restaurants in India based on key metrics
+
 ✅ Average Cost for Two across different locations
+
 ✅ Restaurant Opening Trend over the years 📈
+
 ✅ Global Restaurant Distribution by country 🌍
+
 ✅ KPIs Added:
 
 Total number of restaurants 🏪
